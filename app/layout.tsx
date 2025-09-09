@@ -9,9 +9,9 @@ import { GameProvider } from "@/contexts/game-context"
 import { Suspense } from "react"
 
 export const metadata: Metadata = {
-  title: "v0 App",
-  description: "Created with v0",
-  generator: "v0.app",
+  title: "Raspou Premios",
+  description: "",
+  generator: "",
 }
 
 export default function RootLayout({
